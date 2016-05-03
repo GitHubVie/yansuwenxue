@@ -9,7 +9,7 @@
 	$authors = [
 		{"index":"#","author":"阿尔贝·加缪", "letters":[{ "index":"#","title":"局外人/鼠疫"}]},
 		{"index":"#","author":"塞缪尔·贝克特", "letters":[{ "index":"#","title":"等待戈多"}]},
-		{"index":"#","author":"费西廷", "letters":[{ "index":"yswx001.html","title":"一切人的谋杀"},{ "index":"yswx002.html","title":"不说话的王国" }]},
+		{"index":"author.html","author":"费西廷", "letters":[{ "index":"yswx001.html","title":"一切人的谋杀"},{ "index":"yswx002.html","title":"不说话的王国" }]},
 		{"index":"#","author":"匿名", "letters":[{ "index":"#","title":"露珠里的世界"},{ "index":"#","title":"拆散的笔记薄" },{ "index":"#","title":"盲目" }]}
 	];
 	
